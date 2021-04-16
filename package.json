@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/cgaulin/assignment-2--intro-to-internet-programming--cs-275--spring-2021#readme",
   "devDependencies": {
-    "gulp-html": "^3.3.0"
+    "browser-sync": "^2.26.14",
+    "gulp-eslint": "^6.0.0",
+    "gulp-html": "^3.4.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-stylelint": "^13.0.0"
   },
   "dependencies": {
     "eslint": "^7.24.0",
